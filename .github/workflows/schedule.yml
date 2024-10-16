@@ -17,5 +17,5 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          RECORDS: "2023-10-17 _ IM뱅크 인적성테스트와 코딩테스트 | 2023-10-19 _ 한국전력공사 NCS시험 | 2023-10-19 _ 두산 디지털이노베이션 DCAT시험"
+          RECORDS: "2024-10-17 _ IM뱅크 인적성테스트와 코딩테스트 | 2024-10-19 _ 한국전력공사 NCS시험 | 2024-10-19 _ 두산 디지털이노베이션 DCAT시험"
 
