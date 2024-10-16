@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          RECORDS: "0 * * * 0,6 _ WEEKEND | 0 0 10 * * _ PAYDAY | 2022-10-22 _ INIT DATE-BOX | 0 * 28 12 * _ MY BIRTHDAY"
+          RECORDS: "0 10 17 10 * IM뱅크 인적성테스트와 코딩테스트 | 50 9 19 10 * 한국전력공사 NCS 시험 | 0 14 19 10 * 두산 디지털이노베이션 DCAT 시험"
